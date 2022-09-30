@@ -1,4 +1,2 @@
-# busca-de-perfil-github-api
-
-Consumino API do github para busca de perfil dos usuarios 
-que mostra os reposositorios e os ultimos eventos
+# projeto-inicial-fetch-github-api
+Repositório contendo os arquivos iniciais do projeto de Fetch e GitHub API
